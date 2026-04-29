@@ -15,8 +15,17 @@
 <a href="https://linkedin.com/in/jerry-myron" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
+
 <a href="https://instagram.com/jerrykaz_" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+</a>
+
+<a href="mailto:jerrymyronkaz@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
+
+<a href="https://wa.me/233598446269" target="_blank">
+<img src="https://skillicons.dev/icons?i=whatsapp" height="30"/>
 </a>
 </p>
 
