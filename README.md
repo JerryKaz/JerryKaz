@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://wa.me/233598446269" target="_blank">
-<img src="https://skillicons.dev/icons?i=whatsapp" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="30" style="filter: invert(48%) sepia(93%) saturate(500%) hue-rotate(90deg);"/>
 </a>
 </p>
 
