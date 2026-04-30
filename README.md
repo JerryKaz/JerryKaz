@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jerry Myron</h1>
-<h3 align="center">Junior Software Engineer | Building Scalable & Clean Solutions</h3>
+# Hi, I'm Jerry Myron
+**`Junior Software Engineer | Building Scalable & Clean Solutions`**
 
 ---
 
