@@ -1,79 +1,115 @@
-# Hi, I'm Jerry Myron
-**`Junior Software Engineer | Building Scalable & Clean Solutions`**
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Jerry Myron
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30"/> **`Junior Software Engineer | Building Scalable & Clean Solutions`**
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=+Creating+Elegant+Solutions;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-- 💡 Passionate about solving real-world problems with code  
-- 🚀 Currently improving my skills in full-stack development  
-- 📫 Reach me at: **jerrymyronkaz@gmail.com**
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Man%20Technologist.png" alt="Man Technologist" />
+
+- 🔭 I'm currently working on **exciting full-stack projects**
+- 🌱 Learning **Cloud Architecture** & **System Design**
+- 💬 Ask me about **Python, Django, React, and clean code**
+- ⚡ Fun fact: **I love debugging more than writing code (sometimes 😅)**
+- 🎯 2025 Goal: **Contribute to open source and build scalable apps**
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/jerry-myron" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-</a>
-
-<a href="https://instagram.com/jerrykaz_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="30"/>
-</a>
-
-<a href="mailto:jerrymyronkaz@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-</a>
-
-<a href="https://wa.me/233598446269" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="30" style="filter: invert(48%) sepia(93%) saturate(500%) hue-rotate(90deg);"/>
-</a>
+  <a href="https://linkedin.com/in/jerry-myron" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jerrykaz_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jerrymyronkaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/233598446269" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/jerrykaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
+
+#### 🚀 Languages & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,vue,nodejs,html,css,tailwind,bootstrap,mysql,postgres,firebase,git" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,vue,nodejs" />
+</p>
+
+#### 🎨 Frontend & Styling
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrykaz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykaz&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=6" height="180" />
+</div>
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrykaz&theme=tokyonight&hide_border=true"/>
-</p>
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrykaz&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
+</div>
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=tokyo-night&hide_border=true"/>
-</p>
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" width="100%" />
+</div>
 
 ---
 
-### 🧠 Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jerrykaz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jerrykaz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+### 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jerrykaz&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+### 🎯 Weekly Development Breakdown
+
+```text
+Python       ████████████████████▓░░░░   78%
+JavaScript   ████████████████░░░░░░░░   62%
+React        ██████████████░░░░░░░░░░   55%
+Django       ████████████████▓░░░░░░░   60%
+CSS/Tailwind ████████████░░░░░░░░░░░░   48%
