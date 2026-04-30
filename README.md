@@ -11,19 +11,18 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Man%20Technologist.png" alt="Man Technologist" />
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 Learning **Cloud Architecture** & **System Design**
-- 💬 Ask me about **Python, Django, React, and clean code**
-- ⚡ Fun fact: **I love debugging more than writing code (sometimes 😅)**
-- 🎯 2025 Goal: **Contribute to open source and build scalable apps**
+- I'm currently working on **exciting full-stack projects**
+- Learning **Software Development** & **System Design and Analysis**
+- Ask me about **Python, Django, React, and clean code**
+-  Fun fact: **I love writing code**
+-  2026 Goal: **Contribute to open source and build scalable apps**
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/jerry-myron" target="_blank">
@@ -45,26 +44,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🚀 Languages & Frameworks
+#### Languages & Frameworks
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,vue,nodejs" />
 </p>
 
-#### 🎨 Frontend & Styling
+#### Frontend & Styling
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
-#### 🗄️ Databases & Tools
+#### Databases & Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" height="180" />
@@ -73,7 +72,7 @@
 
 ---
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrykaz&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
@@ -81,7 +80,7 @@
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" width="100%" />
@@ -89,7 +88,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jerrykaz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
@@ -97,7 +96,7 @@
 
 ---
 
-### 💭 Random Dev Quote
+###  Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
@@ -105,11 +104,11 @@
 
 ---
 
-### 🎯 Weekly Development Breakdown
+###  Weekly Development Breakdown
 
 ```text
 Python       ████████████████████▓░░░░   78%
-JavaScript   ████████████████░░░░░░░░   62%
+JavaScript   ████████████████░░░░░░   62%
 React        ██████████████░░░░░░░░░░   55%
 Django       ████████████████▓░░░░░░░   60%
 CSS/Tailwind ████████████░░░░░░░░░░░░   48%
