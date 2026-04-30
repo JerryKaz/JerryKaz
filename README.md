@@ -61,7 +61,26 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" />
 </p>
 
+
 ---
+
+### Architecture Philosophy
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STEP%201-Requirements-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%202-Design-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%203-Prototype-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%204-Review-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%205-Implement-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%206-Test-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%207-Deploy-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEP%208-Monitor-1F6FEB?style=flat-square" />
+</div>
+
+
+
+---
+
 
 ###  GitHub Analytics
 
