@@ -1,7 +1,6 @@
+#  Hi, I'm Jerry Myron
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Jerry Myron
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30"/> **`Junior Software Engineer | Building Scalable & Clean Solutions`**
+**`Junior Software Engineer | Building Scalable & Clean Solutions`**
 
 ---
 
@@ -9,16 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=+Creating+Elegant+Solutions;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
----
-
-###  About Me
-
-
-- I'm currently working on **exciting full-stack projects**
-- Learning **Software Development** & **System Design and Analysis**
-- Ask me about **Python, Django, React, and clean code**
--  Fun fact: **I love writing code**
--  2026 Goal: **Contribute to open source and build scalable apps**
 
 ---
 
