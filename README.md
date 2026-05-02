@@ -37,7 +37,7 @@
 
 #### Languages & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,vue,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,vue,nodejs,java" />
 </p>
 
 #### Frontend & Styling
