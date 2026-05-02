@@ -80,13 +80,7 @@
 
 ---
 
-###  Contribution Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrykaz&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
-</div>
-
----
 
 ### Activity Graph
 
