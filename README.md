@@ -71,16 +71,6 @@
 ---
 
 
-###  GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykaz&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=6" height="180" />
-</div>
-
----
-
-
 
 ### Activity Graph
 
