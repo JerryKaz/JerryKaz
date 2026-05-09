@@ -1,6 +1,6 @@
 #  Hi, I'm Jerry Myron
 
-**`Junior Software Engineer | Building Scalable & Clean Solutions`**
+**`Junior Software Engineer & Web Developer | Building Scalable & Clean Solutions`**
 
 ---
 
