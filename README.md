@@ -30,7 +30,7 @@
 
 #### Languages & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,java" />
+<img src="https://skillicons.dev/icons?i=python,django,js,nodejs,express,ts,react,java" />
 </p>
 
 #### Frontend & Styling
