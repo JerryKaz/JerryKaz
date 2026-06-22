@@ -2,6 +2,10 @@
 
 **`Software Engineer | Full-Stack Developer |  Building Scalable, Maintainable Systems`**
 
+##  Overview
+
+Experienced full-stack software engineer with a strong foundation in systems design, architecture patterns, and building production-grade applications. Specialized in crafting scalable backend solutions and intuitive frontend interfaces. Passionate about clean code, best practices, and mentoring junior developers. Based in Ghana, building tech solutions with a global perspective.
+
 ---
 
 ###  Connect With Me
