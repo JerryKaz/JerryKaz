@@ -95,11 +95,15 @@
 
 ---
 
-###  GitHub Trophies
+## 🎯 Contribution Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerrykaz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerrykaz&theme=github-dark&hide_border=true&background=0D1117)](https://github.com/jerrykaz)
+
 </div>
+
+
 
 ---
 
