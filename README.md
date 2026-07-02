@@ -28,8 +28,10 @@ Experienced full-stack software engineer with a strong foundation in systems des
   </a>
 </p>
 
+
 ---
 ##  Technical Stack
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -99,7 +101,7 @@ Experienced full-stack software engineer with a strong foundation in systems des
 
 ---
 
-## 🎯 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
