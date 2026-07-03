@@ -105,7 +105,7 @@ Experienced full-stack software engineer with a strong foundation in systems des
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerrykaz&theme=github-dark&hide_border=true&background=0D1117)](https://github.com/jerrykaz)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jerrykaz&theme=github-dark&hide_border=true&background=0D1117)](https://github.com/jerrykaz)
 
 </div>
 
