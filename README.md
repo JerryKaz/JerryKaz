@@ -96,9 +96,8 @@ Experienced full-stack software engineer with a strong foundation in systems des
 ### Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&custom_title=Jerry's%20Contribution%20Graph&border_radius=10" width="100%" />
 </div>
-
 ---
 
 ##  Contribution Streak
