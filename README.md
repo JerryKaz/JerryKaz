@@ -101,6 +101,9 @@ Experienced full-stack software engineer with a strong foundation in systems des
 
 
 
+
+---
+
 ##  Contribution Streak
 
 <div align="center">
