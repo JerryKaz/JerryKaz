@@ -4,7 +4,8 @@
 
 ##  Overview
 
-Full-Stack Software Engineer building scalable web applications, APIs, and custom software solutions. Passionate about clean architecture, maintainable code, and solving real-world problems through software.
+Full-Stack Software Engineer passionate about building scalable web applications and custom software solutions. I enjoy designing clean architectures, developing reliable backend systems, and crafting intuitive user experiences. Focused on writing maintainable code, continuously learning modern technologies, and building software that solves real-world problems.
+
 
 
 ---
