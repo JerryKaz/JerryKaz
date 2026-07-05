@@ -1,10 +1,11 @@
 #  Hi, I'm Jerry Myron
 
-**`Software Engineer | Full-Stack Developer |  Building Scalable Web App & Software, Maintainable Systems`**
+**`Full-Stack Software Engineer | Building Scalable Web Applications & Custom Software Solutions| Maintainable Systems`**
 
 ##  Overview
 
-Experienced full-stack software engineer with a strong foundation in systems design, architecture patterns, and building production-grade applications. Specialized in crafting scalable backend solutions and intuitive frontend interfaces. Passionate about clean code, best practices, and mentoring junior developers. Based in Ghana, building tech solutions with a global perspective.
+Full-Stack Software Engineer building scalable web applications, APIs, and custom software solutions. Passionate about clean architecture, maintainable code, and solving real-world problems through software.
+
 
 ---
 
