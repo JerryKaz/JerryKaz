@@ -1,6 +1,8 @@
 #  Hi, I'm Jerry Myron
 
+
 **`Full-Stack Software Engineer | Building Scalable Web Applications & Custom Software Solutions| Maintainable Systems`**
+
 
 ##  Overview
 
