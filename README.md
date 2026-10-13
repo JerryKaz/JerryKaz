@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jerrykaz)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-myron)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrymyronkaz@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jerrykaz_)
@@ -240,59 +240,6 @@ flowchart LR
 
 ---
 
-## Featured Engineering Projects
-
-A selection of projects demonstrating my approach to software design, development, and problem-solving.
-
-### Project 01 — Full-Stack Web Application
-
-**Technology Stack:** React · TypeScript · Node.js · PostgreSQL
-
-A full-stack application architecture focused on modular components, reliable APIs, secure data management, and responsive user interfaces.
-
-**Engineering Focus**
-- Frontend architecture and reusable components
-- RESTful API design
-- Database integration
-- Authentication and authorization
-- Responsive user experience
-
-[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
-
-### Project 02 — Supabase-Powered Application
-
-**Technology Stack:** React · Supabase · PostgreSQL · Tailwind CSS
-
-A modern application architecture using Supabase for authentication, database services, and secure access to application data.
-
-**Engineering Focus**
-- Authentication workflows
-- PostgreSQL database design
-- Row Level Security
-- Cloud storage integration
-- Modern frontend development
-
-[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
-
-### Project 03 — Custom Business Software
-
-**Technology Stack:** JavaScript · Node.js · Express · SQL
-
-An application concept focused on translating business requirements into efficient, maintainable, and extensible software systems.
-
-**Engineering Focus**
-- Business process analysis
-- Backend service architecture
-- Data modeling
-- API integration
-- System maintainability
-
-[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
-
-> Replace these project descriptions with verified implementations, repository links, live demos, and measurable outcomes as projects are completed.
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -300,14 +247,6 @@ An application concept focused on translating business requirements into efficie
 <img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Jerry Myron GitHub Statistics" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%" />
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&custom_title=Jerry%20Myron%20Contribution%20Activity)](https://github.com/jerrykaz)
 
 </div>
 
