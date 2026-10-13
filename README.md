@@ -1,31 +1,42 @@
-# Hi, I'm Jerry Myron 👋
+
+<div align="center">
+
+# Hi, I'm Jerry Myron
 
 ### Full-Stack Software Engineer | Software Architecture | Scalable Web Solutions
 
-*Building reliable software, designing scalable systems, and turning complex problems into elegant digital solutions.*
+**Engineering reliable software, architecting scalable systems, and building digital products that solve real-world problems.**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;Designing+Reliable+Backend+Systems;Transforming+Ideas+Into+Digital+Products;Clean+Code+%7C+Architecture+%7C+Innovation)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jerrykaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-myron)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jerrykaz_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrymyronkaz@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jerrykaz_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233598446269)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm **Jerry Myron**, a Full-Stack Software Engineer focused on designing and developing scalable web applications, reliable backend services, and custom software solutions.
+I'm **Jerry Myron**, a Full-Stack Software Engineer passionate about building modern, maintainable, secure, and scalable software solutions.
 
-I enjoy working across the entire software development lifecycle from understanding business requirements and designing system architecture to implementing, testing, deploying, and maintaining production applications.
+I work across the software development lifecycle, from understanding business requirements and designing system architecture to implementing frontend interfaces, backend services, databases, and deployment workflows.
 
-My engineering approach emphasizes:
+My focus is on engineering solutions that combine technical excellence with practical business value.
 
-- **Scalability:** Building applications that can grow with user demand.
-- **Maintainability:** Writing clean, modular, and well-structured code.
-- **Performance:** Optimizing applications for speed and reliability.
-- **User Experience:** Creating intuitive, accessible interfaces.
-- **Continuous Improvement:** Learning, experimenting, and refining my craft.
+- **Full-Stack Engineering:** Building complete applications across frontend and backend technologies.
+- **Software Architecture:** Designing modular, scalable, and maintainable application systems.
+- **Backend Development:** Developing RESTful APIs, authentication systems, and application services.
+- **Database Engineering:** Designing relational and NoSQL data models for efficient data management.
+- **Cloud & Deployment:** Working with cloud-backed applications, containerization, and deployment workflows.
+- **Problem Solving:** Transforming complex requirements into reliable software solutions.
 
-> Great software isn't just about writing code. It's about solving the right problems with thoughtful engineering.
+> "Great software is not just about writing code. It is about designing systems that solve the right problems efficiently, reliably, and at scale."
 
 ---
 
@@ -33,95 +44,329 @@ My engineering approach emphasizes:
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Frontend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+</div>
+
+### Frontend Engineering
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+</div>
 
 ### Backend Engineering
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<div align="center">
 
-### Databases & Cloud Services
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+</div>
+
+### Databases, Backend Platforms & Cloud
+
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+</div>
 
 ### Developer Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## Engineering Approach
+## Technology Stack at a Glance
 
-My development workflow follows a structured, iterative process.
+<div align="center">
 
-**01 — Discover & Plan**
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,react,tailwind,bootstrap,html,css,nodejs,express,django,spring,postgres,mysql,mongodb,supabase,firebase,docker,git,github,vscode,figma,postman&perline=8&theme=dark)](https://skillicons.dev)
 
-Understand requirements, define objectives, and identify technical constraints.
-
-**02 — Design & Architect**
-
-Plan application architecture, database schemas, API contracts, and user experiences.
-
-**03 — Build & Integrate**
-
-Develop modular components, implement business logic, and integrate application services.
-
-**04 — Test & Refine**
-
-Validate functionality, address defects, review code, and optimize performance.
-
-**05 — Deploy & Maintain**
-
-Release applications, monitor reliability, and continuously improve the system.
-
-**Core principle:** Design for clarity. Build for reliability. Optimize for growth.
+</div>
 
 ---
 
-## GitHub Activity
+## Software Architecture
 
-![Jerry's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&custom_title=Jerry%27s%20Contribution%20Activity)
+I approach software development with a strong emphasis on separation of concerns, maintainability, performance, and scalability.
+
+The following diagram illustrates a typical full-stack architecture that guides my engineering decisions.
+
+```mermaid
+flowchart TD
+    A["Client Applications"] --> B["Frontend Layer"]
+    B --> C["API / Backend Services"]
+
+    C --> D["Authentication & Authorization"]
+    C --> E["Business Logic"]
+    C --> F["Data Access Layer"]
+
+    D --> G["Supabase Auth"]
+    E --> F
+    F --> H[("PostgreSQL / Supabase")]
+    F --> I[("MongoDB / MySQL")]
+
+    C --> J["External APIs"]
+    C --> K["Storage Services"]
+
+    classDef frontend fill:#1f6feb,color:#fff,stroke:#58a6ff
+    classDef backend fill:#238636,color:#fff,stroke:#3fb950
+    classDef database fill:#30363d,color:#fff,stroke:#8b949e
+
+    class A,B frontend
+    class C,D,E,F,J,K backend
+    class G,H,I database
+```
+
+**Architecture priorities:**
+
+- Modular application structure
+- Secure authentication and authorization
+- Clear API contracts
+- Efficient database design
+- Reusable business logic
+- Maintainable and testable code
+- Reliable deployment workflows
+
+---
+
+## Supabase & Modern Backend Development
+
+I use modern backend technologies to design data-driven applications with authentication, database management, and cloud-backed services.
+
+### Supabase Ecosystem
+
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-Backend_Platform-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Auth](https://img.shields.io/badge/Authentication-User_Management-1F2937?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-Cloud_Files-1F2937?style=for-the-badge)
+
+</div>
+
+### Example Supabase Application Architecture
+
+```mermaid
+flowchart TD
+    A["React / TypeScript Frontend"] --> B["Supabase Client SDK"]
+
+    B --> C["Supabase Authentication"]
+    B --> D["Supabase Database API"]
+    B --> E["Supabase Storage"]
+    B --> F["Supabase Realtime"]
+
+    C --> G[("PostgreSQL Database")]
+    D --> G
+    F --> G
+
+    G --> H["Row Level Security Policies"]
+
+    classDef client fill:#2563eb,color:#fff,stroke:#60a5fa
+    classDef service fill:#047857,color:#fff,stroke:#34d399
+    classDef data fill:#374151,color:#fff,stroke:#9ca3af
+
+    class A,B client
+    class C,D,E,F service
+    class G,H data
+```
+
+**Engineering considerations:**
+
+- Authentication and session management
+- PostgreSQL schema design
+- Row Level Security (RLS)
+- Database queries and relationships
+- File storage and access policies
+- Realtime data synchronization
+- Secure integration with frontend applications
+
+---
+
+## Engineering Workflow
+
+My development process follows a structured software engineering lifecycle.
+
+```mermaid
+flowchart LR
+    A["01. Discover"] --> B["02. Architect"]
+    B --> C["03. Develop"]
+    C --> D["04. Test"]
+    D --> E["05. Deploy"]
+    E --> F["06. Monitor"]
+    F -. "Feedback" .-> A
+
+    classDef stage fill:#172554,color:#fff,stroke:#3b82f6
+
+    class A,B,C,D,E,F stage
+```
+
+| Phase | Engineering Focus |
+|:---|:---|
+| **Discovery** | Requirements analysis, business objectives, technical constraints |
+| **Architecture** | System design, database schemas, API contracts |
+| **Development** | Frontend, backend, integrations, modular implementation |
+| **Testing** | Functional validation, debugging, code review |
+| **Deployment** | Release management, environment configuration |
+| **Maintenance** | Monitoring, performance optimization, continuous improvement |
+
+---
+
+## Featured Engineering Projects
+
+A selection of projects demonstrating my approach to software design, development, and problem-solving.
+
+### Project 01 — Full-Stack Web Application
+
+**Technology Stack:** React · TypeScript · Node.js · PostgreSQL
+
+A full-stack application architecture focused on modular components, reliable APIs, secure data management, and responsive user interfaces.
+
+**Engineering Focus**
+- Frontend architecture and reusable components
+- RESTful API design
+- Database integration
+- Authentication and authorization
+- Responsive user experience
+
+[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
+
+### Project 02 — Supabase-Powered Application
+
+**Technology Stack:** React · Supabase · PostgreSQL · Tailwind CSS
+
+A modern application architecture using Supabase for authentication, database services, and secure access to application data.
+
+**Engineering Focus**
+- Authentication workflows
+- PostgreSQL database design
+- Row Level Security
+- Cloud storage integration
+- Modern frontend development
+
+[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
+
+### Project 03 — Custom Business Software
+
+**Technology Stack:** JavaScript · Node.js · Express · SQL
+
+An application concept focused on translating business requirements into efficient, maintainable, and extensible software systems.
+
+**Engineering Focus**
+- Business process analysis
+- Backend service architecture
+- Data modeling
+- API integration
+- System maintainability
+
+[Explore My Repositories](https://github.com/jerrykaz?tab=repositories)
+
+> Replace these project descriptions with verified implementations, repository links, live demos, and measurable outcomes as projects are completed.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Jerry Myron GitHub Statistics" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%" />
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerrykaz&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&custom_title=Jerry%20Myron%20Contribution%20Activity)](https://github.com/jerrykaz)
+
+</div>
 
 ### Contribution Streak
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jerrykaz&theme=github-dark&hide_border=true&background=0D1117)](https://github.com/jerrykaz)
+
+</div>
+
+---
+
+## Engineering Principles
+
+| Principle | My Approach |
+|:---|:---|
+| **Scalability** | Design applications to support evolving requirements and growing workloads |
+| **Maintainability** | Build modular systems with readable and reusable code |
+| **Security** | Apply authentication, authorization, and secure data handling |
+| **Performance** | Optimize database access, application logic, and frontend delivery |
+| **Reliability** | Test functionality and design for predictable application behavior |
+| **User Experience** | Create accessible, intuitive, and responsive interfaces |
+
+---
+
+## Professional Interests
+
+My engineering interests include:
+
+- Full-Stack Software Engineering
+- Software Architecture and System Design
+- Backend Engineering and API Development
+- Cloud-Backed Web Applications
+- Database Design and Optimization
+- Developer Experience and Engineering Productivity
+- Scalable Business Software Solutions
 
 ---
 
 ## Let's Build Something Meaningful
 
-I'm interested in opportunities to collaborate on impactful software products, scalable web platforms, and custom business applications.
+I'm interested in collaborating with engineering teams, startups, technology companies, and businesses building impactful digital products.
 
-Whether it's developing a new product, improving an existing system, or solving a challenging engineering problem, I'm always interested in thoughtful collaboration.
+Whether the challenge involves designing a new platform, developing a full-stack application, modernizing an existing system, or solving a complex technical problem, I value thoughtful engineering and effective collaboration.
 
-**Let's connect and create something valuable.**
+<div align="center">
+
+### Open to Software Engineering Opportunities & Collaboration
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrymyronkaz@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-myron)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-myron)
+[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerrykaz)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233598446269)
 
----
+<br/>
 
-*Engineering solutions with purpose, precision, and scalability.*
+**Engineering solutions with purpose, precision, and scalability.**
 
-**Jerry Myron — Full-Stack Software Engineer**
+**Jerry Myron | Full-Stack Software Engineer**
+
+</div>
