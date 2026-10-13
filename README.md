@@ -240,14 +240,6 @@ flowchart LR
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jerrykaz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Jerry Myron GitHub Statistics" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%" />
-
 </div>
 
 ### Contribution Streak
